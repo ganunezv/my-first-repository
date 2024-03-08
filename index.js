@@ -1,3 +1,3 @@
 showAlertButton.addEventListener("click", () => {
-  alert(`${nameInput.value} ${ageInput.value}`);
+  alert(`mi nombre es ${nameInput.value} mi edad es ${ageInput.value}`);
 });
