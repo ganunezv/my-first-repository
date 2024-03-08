@@ -16,15 +16,14 @@ body {
   gap: 20px;
   justify-content: center;
   align-items: center;
-  background-color: #222;
-  color: white;
+  background-color: #f4f4f4;
 }
 
 body > div {
   width: 100%;
   max-width: 400px;
   padding: 20px;
-  background-color: #333;
+  background-color: #fff;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   display: grid;
@@ -44,7 +43,7 @@ label span {
 input {
   width: 100%;
   padding: 10px;
-  border: 1px solid #555;
+  border: 1px solid #ddd;
   border-radius: 5px;
 }
 
