@@ -1,1 +1,3 @@
-console.log("Hello world")
+showAlertButton.addEventListener("click", () => {
+  alert(`${nameInput.value} ${ageInput.value}`);
+});
